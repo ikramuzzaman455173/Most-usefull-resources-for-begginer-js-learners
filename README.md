@@ -7,9 +7,8 @@
 
 ## Table of Best Resources For Only Javascript Learners 🙋‍♂️ content
 
->Click on any topic to go there
-
 > Click on any topic to go there
+
 - [One Of The Best Websit For Bd Javascript Learners:)](#js-1)
 - [SattAcademy Best Website For Learning Bangla Language Programming And More Other Thinks:)](#js-2)
 - [Another Awesom Platform Learning Bangla Language Javascript:)](#js-3)
